@@ -1,0 +1,13 @@
+<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skyGrad2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#87ceeb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e6f3ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#skyGrad2)"/>
+  <polygon points="0,500 250,320 450,400 700,280 900,380 1200,500 1200,800 0,800" fill="#5a7a9a"/>
+  <polygon points="250,400 300,220 350,400" fill="#ffffff"/>
+  <polygon points="680,380 730,140 780,380" fill="#ffffff"/>
+  <polygon points="950,400 1000,250 1050,400" fill="#ffffff"/>
+</svg>
