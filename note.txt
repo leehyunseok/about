@@ -1,4 +1,0 @@
-❯ github pages 에 올릴 프로파일 페이지를 만들어줘
-복잡한 기숤셋이 아니고, 웹표준 css,html,javascript 를 활용해서 만들려고해
-https://www.serenacrq.com/ 페이지 처럼 만들려고 하니까 참조해주고
-어떻게 만들건지 계획을 먼저 알려줘
